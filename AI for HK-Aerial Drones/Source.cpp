@@ -202,6 +202,7 @@ int main()
 			cout << "\nSkynet HK 717 Aerial took this many tries # " << Random_AI_tries << endl;
 		}
 
+		
 	}
 	//This comes up with the final numbers that it was looking for.
 	while (Random_AI_Location_Prediction != exactTargetLocation);
